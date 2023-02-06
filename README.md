@@ -26,3 +26,6 @@ A quick look at the relationship between items
 Select an item to proceed a further analysis
 A heatmap to review the association between antecedents and consequents
 A network graphic to know the connections of the selected item
+
+3. Process
+First of all, load the essential packages and read the 2 datasets.
