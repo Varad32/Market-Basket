@@ -29,3 +29,16 @@ A network graphic to know the connections of the selected item
 
 3. Process
 First of all, load the essential packages and read the 2 datasets.
+
+5. Conclusion
+In sum, here are viewpoints as below.
+
+Top 10 sold items are whole milk, other vegetables, rolls/buns, soda, yogurt, root vegetables, tropical fruit, bottled water, sausage, and citrus fruit.
+
+Top 5 consequents of whole milk are other vegetables, rolls/buns, soda, tropical fruit, and yogurt.
+
+Every item in the top 10 percentile of all combinations has high confidence that customers buy the items with the whole wilk.
+
+Regarding the network graphics, whole milk has the highest number of connections with other items.
+
+Total items in these two datasets are the same. However, if generating a basket analysis dataframe based on each transaction, the number of combinations would be fewer than creating it based on customer IDs.
